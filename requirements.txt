@@ -6,3 +6,5 @@ mkdocs==1.1.2 # from none
 mkdocs-material==6.0.1 # from none
 pre-commit==2.7.1 # from 1.21.0
 pylint==2.6.0 # from 2.4.4
+devsetgo-lib[all]
+fastapi
