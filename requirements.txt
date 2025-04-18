@@ -9,3 +9,4 @@ pylint==2.6.0 # from 2.4.4
 devsetgo-lib[all]
 fastapi
 httpx
+python-dotenv
